@@ -1,0 +1,4 @@
+what is the JVM?
+JVM is Java virtual machine, and it has three conpoments which are class Loader,Runtime Memory and Execution Engine.
+It provides runtime environment to drive the Java Code or applications. It converts Java bytecode into machines language. 
+JVM is a part of Java Runtime Environment (JRE). 
