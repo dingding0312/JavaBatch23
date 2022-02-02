@@ -1,0 +1,3 @@
+what is type erasure?
+Type erasure is a process in which compiler replaces a generic parameter with actual class or bridge method. 
+In type erasure, compiler ensures that no extra classes are created and there is no runtime overhead.
