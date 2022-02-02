@@ -1,0 +1,22 @@
+Explore other stream API
+map() the map() is used to transform one object into other by applying a funtion
+
+flatmap() it used for transformation and flattering
+
+distinct() return a stream consisting of the distinct elements of this stream
+
+limit() return a stream with the limited size given. It will truncate the remaining elements from the stream
+
+filter() return a stream consisting of the elements of this stream that match the given predicate
+
+sorted() return a stream consisting of the elements of this stream, sorted according to the natural order
+
+skip() This method skips the given n elements and returns a stream
+
+peek() Returns a stream consisting of the elements of this stream, additionally performing the provided 
+action on each element as elements are consumed from the resulting stream.
+
+Method reference
+
+Method reference is used to refer method of functional interface. It is compact and easy form of lambda expression. 
+Each time when you are using lambda expression to just referring a method, you can replace your lambda expression with method reference.
